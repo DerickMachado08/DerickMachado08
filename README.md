@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="assets/gato-samurai-dark.png" width="160" alt="Gato samurai, avatar de Derick Machado">
-
-Derick Machado
+  <img src="assets/banner-derick-machado.png" width="100%" alt="Banner de Derick Machado com gato samurai">
 
 Desenvolvedor Back-end em formação | Java • Spring Boot 
 
@@ -49,15 +47,6 @@ Ferramentas
 
 <div align="">
   <img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode&perline=5" alt="Tecnologias utilizadas por Derick">
-</div>
-
-
-
-Estatísticas do GitHub
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=DerickMachado08&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;locale=pt-br" alt="Estatísticas do GitHub de Derick">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMachado08&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;locale=pt-br" alt="Linguagens mais utilizadas por Derick">
 </div>
 
 Objetivos atuais
