@@ -23,8 +23,6 @@ Estudos atuais: Java, Spring Boot, APIs REST, bancos de dados.
 
 Interesses técnicos: arquitetura de software, segurança, testes e desenvolvimento de sistemas completos.
 
-Além da programação: pratico jiu-jítsu, desenho, leio e gosto de videogames.
-
 Conhecimentos
 
 Área
