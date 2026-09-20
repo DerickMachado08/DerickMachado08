@@ -63,7 +63,7 @@ conquistar minha primeira oportunidade como desenvolvedor back-end.
 
 <div align="center">
 
-Aprendendo, construindo e evoluindo todos os dias.
+Sempre aprendendo cada vez mais, em busca dos meus sonhos.
 
   <br>
 
