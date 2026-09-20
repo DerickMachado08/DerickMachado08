@@ -1,103 +1,83 @@
 <div align="center">
 
-  <img src="assets/gato-samurai-dark.png" width="220" alt="Gato samurai, avatar de Derick Machado" />
+  <img src="assets/gato-samurai-dark.png" width="160" alt="Gato samurai, avatar de Derick Machado">
 
-Olá, eu sou Derick Machado 👋
+Derick Machado
 
-Desenvolvedor Back-end em formação • Java & Python
+Desenvolvedor Back-end em formação | Java • Spring Boot 
 
-  <p>
-    Estudante de Informática e futuro estudante de Ciência da Computação.<br>
-    Gosto de transformar ideias em aplicações úteis, organizadas e seguras.
-  </p>
+Estudante de Informática e futuro estudante de Ciência da Computação,<br>
+transformando aprendizado em aplicações web completas.
 
-
-
+  <a href="https://github.com/DerickMachado08">
+    <img src="https://img.shields.io/badge/GitHub-DerickMachado08-181717?style=flat-square&logo=github&logoColor=white" alt="Perfil de Derick no GitHub">
+  </a>
 
 </div>
 
-👨‍💻 Sobre mim
+Sobre mim
 
-🎓 Cursando Técnico em Informática
+Formação: concluindo o curso Técnico em Informática.
 
-🚀 Focado em desenvolvimento back-end e Engenharia de Software
+Objetivo profissional: atuar como desenvolvedor back-end e evoluir para Engenharia de Software.
 
-🌱 Estudando Java, Spring Boot, Python, bancos de dados e React
+Estudos atuais: Java, Spring Boot, APIs REST, bancos de dados.
 
-🧩 Desenvolvendo projetos para fortalecer lógica, arquitetura e boas práticas
+Interesses técnicos: arquitetura de software, segurança, testes e desenvolvimento de sistemas completos.
 
-🥋 Fora do código: jiu-jítsu, desenho, leitura e videogames
+Além da programação: pratico jiu-jítsu, desenho, leio e gosto de videogames.
 
-🛠️ Tecnologias e ferramentas
+Conhecimentos
+
+Área
+
+Tecnologias e conceitos
 
 Back-end
 
-
-
-
-
-
-Front-end
-
-
-
-
-
-
-Banco de dados, DevOps e IDEs
-
-
-
-
-
-
-
-
-🚀 Projeto em destaque
-
-Sistema de Gestão de Seguros
-
-Aplicação web para gerenciar clientes, corretores, apólices, contratações, pagamentos, bens patrimoniais e sinistros.
-
-Principais recursos:
-
-autenticação de cliente, corretor e administrador;
-
-dashboards específicos para cada perfil;
-
-contratação e emissão de apólices;
-
-pagamentos integrados com Stripe;
-
-recuperação de senha por e-mail;
-
-controle de sinistros e bens patrimoniais.
-
-Stack: Java 21, Spring Boot, Thymeleaf, Hibernate, MySQL, HTML, CSS, JavaScript, Docker e Stripe.
-
-📊 Estatísticas
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Derick" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Derick" />
-
+<div align="">
+  <img src="https://skillicons.dev/icons?i=java,spring&perline=5" alt="Tecnologias utilizadas por Derick">
 </div>
 
-🎯 Objetivos atuais
+Banco de dados
 
-aprofundar conhecimentos em Java e Spring Boot;
+<div align="">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=5" alt="Tecnologias utilizadas por Derick">
+</div>
 
-criar APIs REST bem estruturadas;
+Ferramentas
 
-evoluir em testes, segurança e arquitetura de software;
+<div align="">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode&perline=5" alt="Tecnologias utilizadas por Derick">
+</div>
+
+
+
+Estatísticas do GitHub
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=DerickMachado08&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;locale=pt-br" alt="Estatísticas do GitHub de Derick">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickMachado08&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;locale=pt-br" alt="Linguagens mais utilizadas por Derick">
+</div>
+
+Objetivos atuais
+
+aprofundar meus conhecimentos em Java e no ecossistema Spring;
+
+desenvolver APIs REST organizadas, documentadas e seguras;
+
+estudar testes automatizados, padrões de projeto e arquitetura de software;
+
+publicar projetos que demonstrem minha evolução técnica;
 
 conquistar minha primeira oportunidade como desenvolvedor back-end.
 
 <div align="center">
 
-Sempre aprendendo, criando e melhorando um pouco a cada dia.
+Aprendendo, construindo e evoluindo todos os dias.
 
+  <br>
 
+  <img src="https://komarev.com/ghpvc/?username=DerickMachado08&amp;color=238636&amp;style=flat-square&amp;label=VISITAS+NO+PERFIL" alt="Contador de visualizações do perfil">
 
 </div>
